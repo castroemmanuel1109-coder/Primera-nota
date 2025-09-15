@@ -1,10 +1,10 @@
 /* Creación de variables a  utilizar */
 :root {
-    --primary-color: rgb(50,120,100);
-    --secondary-color: #934a19;
-    --text-color: #333333;;
-    --background-color: #f4f4f4;
-    --light-gray: #ecf0f1;
+    --primary-color: rgb(16, 168, 80);
+    --secondary-color: hsl(0, 0%, 100%);
+    --text-color: #00000007;;
+    --background-color: #e07d7d;
+    --light-gray: #23ccf7;
 }
 
 
