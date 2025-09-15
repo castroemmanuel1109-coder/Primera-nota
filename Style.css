@@ -1,10 +1,10 @@
 /* Creación de variables a  utilizar */
 :root {
-    --primary-color: rgb(16, 168, 80);
-    --secondary-color: hsl(0, 0%, 100%);
-    --text-color: #000000da;;
-    --background-color: #fceded;
-    --light-gray: #23ccf7;
+    --primary-color: rgb(50,120,100);
+    --secondary-color: #934a19;
+    --text-color: #333333;;
+    --background-color: #f4f4f4;
+    --light-gray: #ecf0f1;
 }
 
 
@@ -192,7 +192,7 @@ del area de Estudios realizados y experiencia laboral*/
 /*Sección para cambiar el color a la letra o fondo de cada link en el Linktree */
 .linktree-link {
     background-color: rgb(99, 184, 233);
-    color: rgb(0, 0, 0);
+    color: rgb(250, 250, 250);
     text-decoration: none;
     padding: 1rem 2rem;
     width: 250px;
